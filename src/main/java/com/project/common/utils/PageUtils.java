@@ -16,4 +16,8 @@ public class PageUtils {
 	public static String view(String folder, String page) {
 		return new StringBuilder(folder).append("/").append(page).toString();
 	}
+	
+	public static String view(String page) {
+		return page;
+	}
 }
