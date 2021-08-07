@@ -1,4 +1,4 @@
-package com.project.common.helpers;
+package com.birprojedaha.common.helpers;
 
 import java.io.IOException;
 import java.time.LocalDate;

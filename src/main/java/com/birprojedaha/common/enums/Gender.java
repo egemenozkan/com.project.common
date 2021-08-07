@@ -1,4 +1,4 @@
-package com.project.common.enums;
+package com.birprojedaha.common.enums;
 
 public enum Gender {
 	FEMALE(1), MALE(2), NOTSET(0);

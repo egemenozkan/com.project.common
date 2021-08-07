@@ -1,4 +1,4 @@
-package com.project.common.utils;
+package com.birprojedaha.common.utils;
 
 import java.util.List;
 

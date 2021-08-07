@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.project.common.utils;
+package com.birprojedaha.common.utils;
 
 /**
  * @author egemen

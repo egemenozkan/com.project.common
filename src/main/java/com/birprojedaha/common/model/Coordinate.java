@@ -1,4 +1,4 @@
-package com.project.common.model;
+package com.birprojedaha.common.model;
 
 /**
  * @author Egemen

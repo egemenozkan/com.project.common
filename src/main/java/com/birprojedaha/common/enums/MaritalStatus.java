@@ -1,4 +1,4 @@
-package com.project.common.enums;
+package com.birprojedaha.common.enums;
 
 public enum MaritalStatus {
 	SINGLE(1), MARRIED(2), DIVORCED(3), NOTSET(0);

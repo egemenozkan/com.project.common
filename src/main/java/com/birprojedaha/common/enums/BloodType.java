@@ -1,4 +1,4 @@
-package com.project.common.enums;
+package com.birprojedaha.common.enums;
 
 public enum BloodType {
 	RHP0(1), RHN0(2), RHPA(3), RHNA(4), RHPB(5), RHNB(6), RHPAB(7), RHNAB(8), NOTSET(0);
